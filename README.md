@@ -195,5 +195,5 @@ Never commit your `.env` files.
 
 **Aman Roy**
 
-- GitHub: [your-username](https://github.com/amanroypeak)
-- LinkedIn: [your-profile](https://linkedin.com/in/amanroydev)
+- GitHub: [Github](https://github.com/amanroypeak)
+- LinkedIn:[LinkedIn](https://linkedin.com/in/amanroydev)
