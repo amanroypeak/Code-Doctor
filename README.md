@@ -125,7 +125,7 @@ Code Doctor/
 
 ```bash
 git clone https://github.com/amanroypeak/Code-Doctor.git
-cd code-doctor
+cd Code-Doctor
 ```
 
 ### 2. Set up the backend
