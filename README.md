@@ -1,6 +1,6 @@
 # 🩺 Code Doctor
 
-Code Doctor is a full stack web app that scans a JavaScript project for bad code and explains how to fix it. Upload your project as a `.zip` file, get every issue with its file, line number and severity, and read an AI-generated explanation with corrected code.
+Code Doctor is a full stack web app that scans a JavaScript project for common code issues and security-related problems and explains how to fix it. Upload your project as a `.zip` file, get every issue with its file, line number and severity, and read an AI-generated explanation with corrected code.
 
 Guests can scan a project instantly. Logged-in users also get their scans saved to a personal dashboard.
 
